@@ -46,7 +46,7 @@ class HomeActivity extends StatelessWidget {
             Text("Experiment with text styles",
             style: TextStyle(
               fontStyle: FontStyle.italic,
-              fontSize: 13
+              fontSize: 14
             ),),
             SizedBox(
               height: 12,
